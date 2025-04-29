@@ -7,3 +7,7 @@
 ## Test cases for testing Registration and Authorization and Product Catalog features
 
 [Link to test cases in QASE](https://app.qase.io/project/G10?previewMode=side&suite=27&tab=)
+
+## PDF file version with Test cases for testing Registration and Authorization and Product Catalog 
+
+[Link to PDF file with test cases](https://github.com/AnnaZudilova/docs/commit/465ef537a7db1eb467194693189999e55995bc0f)
