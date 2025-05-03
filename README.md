@@ -11,3 +11,8 @@
 ## PDF file version with Test cases for testing Registration and Authorization and Product Catalog 
 
 [Link to PDF file with test cases](https://github.com/AnnaZudilova/docs/commit/465ef537a7db1eb467194693189999e55995bc0f)
+
+## Bug report and Test run files for Registration and Authorization and Product Catalog features
+
+[Link to XLS file with Bug reports](https://github.com/AnnaZudilova/docs/commit/4c66927bc42f5a71cf24dbe17c11736af2eca92e)
+[Link to PDF file with Test run results](https://github.com/AnnaZudilova/docs/commit/5a0106a7512b6e3623e8c0e446a6ddc030250cbf)
