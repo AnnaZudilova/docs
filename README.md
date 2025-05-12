@@ -10,7 +10,7 @@
 
 ## PDF file version with Test cases for testing Registration and Authorization and Product Catalog 
 
-[Link to PDF file with test cases](https://github.com/AnnaZudilova/docs/commit/465ef537a7db1eb467194693189999e55995bc0f)
+[Link to PDF file with test cases](https://github.com/AnnaZudilova/docs/blob/main/G10-2025-04-29-Test%20cases.pdf)
 
 ## Bug report and Test run files for Registration and Authorization and Product Catalog features
 
