@@ -14,6 +14,7 @@ PDF file with Test cases for testing Registration and Authorization and Product 
 
 Bug report and Test run files for Registration and Authorization and Product Catalog features
 <ul>
-<li><a href="https://github.com/AnnaZudilova/docs/blob/main/Testing%20Documentation.xlsx">Bug reports via Youtrack (XLS file)</a></li>
-<li><a href="https://github.com/AnnaZudilova/docs/blob/main/G10-Test%2Brun%2B2025_05_01%2B-%2BZudilova.pdf">Test run results via QASE</a> </li> 
+<a href="https://docs.google.com/spreadsheets/d/1jFEi9alJ5UwDrkhmVZ6AhPd6LwAda42y/edit?usp=drive_link&ouid=101111610463519058114&rtpof=true&sd=true">Bug reports via Youtrack</a>
+ 
+<a href="https://github.com/AnnaZudilova/docs/blob/main/G10-Test%2Brun%2B2025_05_01%2B-%2BZudilova.pdf">Test run results via QASE</a>
 </ul>
